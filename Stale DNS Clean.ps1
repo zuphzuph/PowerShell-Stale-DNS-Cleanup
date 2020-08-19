@@ -67,4 +67,4 @@ else
 }
  
 Write-Host Script has been completed
-Write-Host All remove records have been exported to CSV files under path $env:TEMP
+Write-Host All removed records have been exported to CSV path $env:TEMP
